@@ -16,6 +16,14 @@
     <properties>
         <java.version>11</java.version>
     </properties>
+    <developers>
+        <developer>
+            <id>ai</id>
+            <name>Adam Ingram</name>
+            <email>adam.ingram@pyrmaidci.com</email>
+        </developer>
+    </developers>
+    <inceptionYear>2021</inceptionYear>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
