@@ -10,7 +10,6 @@ class AddEmployee extends Component {
             firstName: '',
             lastName: '',
             email: '',
-            jack: []
         }
         this.handleSubmit = this.handleSubmit.bind(this)
         this.handleChange = this.handleChange.bind(this)
