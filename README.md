@@ -1,2 +1,2 @@
-# spring-boot-api-demo
+# Java Full Stack Demo
 This is for demo purposes only. 
