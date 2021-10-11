@@ -11,7 +11,7 @@ CREATE TABLE `employee` (
   `last_name` varchar(45) DEFAULT NULL,
   `email` varchar(45) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
+);
 
 INSERT INTO `employee` VALUES 
 (1,'coder', 'Adam', 'Ingram', 'everett.ingram22@gmail.com')
